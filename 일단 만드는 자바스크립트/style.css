@@ -3,6 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* 로또번호 추첨기 */
+
 .lotto {
     display: inline-block;
     width: 60px;
@@ -12,5 +20,20 @@
     line-height: 60px;
     border-radius: 50%;
     box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
-    
+
+}
+
+/* 자소서 글자 수 계산기 */
+
+.textArea {
+    text-align: center;
+
+}
+#jasoseol {
+    width: 300px;
+    height: 100px;
+}
+
+.countText {
+    display: block;
 }

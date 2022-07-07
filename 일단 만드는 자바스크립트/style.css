@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.lotto {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    background-color: pink;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+}
